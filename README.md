@@ -1,1 +1,1 @@
-# unqui-Ui-Altamirano
+# Repo para practicas de Interfaces de Usuario
